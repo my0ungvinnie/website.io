@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Tamil&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    cursor: pointer;
+    
+
+}
